@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-It was particulary using .map and render the API bt it was un to learch and research about it
+It was particulary hard using .map and render the API but it was fun to learch and research about it
 
 ## License
 
